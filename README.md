@@ -1,3 +1,5 @@
-# all_terrain_rover
+# EG1311 All Terrain Rover
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/klgijVYz34E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This group project was part of a NUS module titled "EG1311 Design and Make". The aim of the project was to design and construct a rover that can successfully manouvre across the below obstacle course in exactly 1 minute.
+
+
