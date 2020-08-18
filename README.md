@@ -6,4 +6,4 @@ This group project was part of a NUS module titled "EG1311 Design and Make". The
 
 The final demo of the rover can be seen here:
 
-![Final Demo](https://img.youtube.com/vi/klgijVYz34E/0.jpg)](https://www.youtube.com/watch?v=klgijVYz34E)
+[![Final Demo](https://img.youtube.com/vi/klgijVYz34E/0.jpg)](https://www.youtube.com/watch?v=klgijVYz34E)
