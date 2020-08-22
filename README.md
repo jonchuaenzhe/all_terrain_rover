@@ -4,6 +4,6 @@ This group project was part of a NUS module titled "EG1311 Design and Make". The
 
 ![Obstacle Course](obstacle_course.png)
 
-The final demo of the rover can be seen here:
+The final demo of the rover can be seen here (click photo for link or visit https://www.youtube.com/watch?v=klgijVYz34E):
 
 [![Final Demo](https://img.youtube.com/vi/klgijVYz34E/0.jpg)](https://www.youtube.com/watch?v=klgijVYz34E)
